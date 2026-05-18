@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Sigma Walk",
+    "category": "Sigma",
+    "tags": ["sigma", "attitude", "walk", "cool"],
+    "video": "https://media.giphy.com/media/26uf1EUwo2yc0Ski0/giphy.mp4",
+    "thumbnail": "https://media.giphy.com/media/26uf1EUwo2yc0Ski0/giphy.gif"
+  },
+  {
+    "id": 2,
+    "title": "Laughing Hysterically",
+    "category": "Laugh",
+    "tags": ["laugh", "funny", "happy"],
+    "video": "https://media.giphy.com/media/l0HlP7X1ZgLjkusdgM/giphy.mp4",
+    "thumbnail": "https://media.giphy.com/media/l0HlP7X1ZgLjkusdgM/giphy.gif"
+  },
+  {
+    "id": 3,
+    "title": "Shocked Expression",
+    "category": "Shock",
+    "tags": ["shock", "surprised", "amazed"],
+    "video": "https://media.giphy.com/media/4cChR5BTW33EQ/giphy.mp4",
+    "thumbnail": "https://media.giphy.com/media/4cChR5BTW33EQ/giphy.gif"
+  },
+  {
+    "id": 4,
+    "title": "Dancing Celebration",
+    "category": "Dance",
+    "tags": ["dance", "happy", "celebrate", "party"],
+    "video": "https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.mp4",
+    "thumbnail": "https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif"
+  },
+  {
+    "id": 5,
+    "title": "Suspicious Look",
+    "category": "Reaction",
+    "tags": ["suspicious", "doubt", "skeptical"],
+    "video": "https://media.giphy.com/media/QUENVpuNc53AwRiC3d/giphy.mp4",
+    "thumbnail": "https://media.giphy.com/media/QUENVpuNc53AwRiC3d/giphy.gif"
+  },
+  {
+    "id": 6,
+    "title": "Confused Head Tilt",
+    "category": "Reaction",
+    "tags": ["confused", "question", "uncertain"],
+    "video": "https://media.giphy.com/media/BPJmERTSKEVGSuIUes/giphy.mp4",
+    "thumbnail": "https://media.giphy.com/media/BPJmERTSKEVGSuIUes/giphy.gif"
+  },
+  {
+    "id": 7,
+    "title": "Falling Over Laugh",
+    "category": "Laugh",
+    "tags": ["laugh", "hilarious", "funny", "die laughing"],
+    "video": "https://media.giphy.com/media/xTiTnVHzAsTHSKVWru/giphy.mp4",
+    "thumbnail": "https://media.giphy.com/media/xTiTnVHzAsTHSKVWru/giphy.gif"
+  },
+  {
+    "id": 8,
+    "title": "Smooth Criminal",
+    "category": "Sigma",
+    "tags": ["smooth", "cool", "slick"],
+    "video": "https://media.giphy.com/media/dCfTiV3DeRtpW1d5fF/giphy.mp4",
+    "thumbnail": "https://media.giphy.com/media/dCfTiV3DeRtpW1d5fF/giphy.gif"
+  },
+  {
+    "id": 9,
+    "title": "Mind Blown",
+    "category": "Shock",
+    "tags": ["shocked", "blown away", "amazed"],
+    "video": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.mp4",
+    "thumbnail": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"
+  },
+  {
+    "id": 10,
+    "title": "Awkward Wave",
+    "category": "Reaction",
+    "tags": ["awkward", "wave", "uncomfortable"],
+    "video": "https://media.giphy.com/media/3o85xIO33l7RlmLDBi/giphy.mp4",
+    "thumbnail": "https://media.giphy.com/media/3o85xIO33l7RlmLDBi/giphy.gif"
+  },
+  {
+    "id": 11,
+    "title": "Victory Dance",
+    "category": "Dance",
+    "tags": ["victory", "win", "celebrate", "success"],
+    "video": "https://media.giphy.com/media/xT9IgEx8SbQ1gRZYrW/giphy.mp4",
+    "thumbnail": "https://media.giphy.com/media/xT9IgEx8SbQ1gRZYrW/giphy.gif"
+  },
+  {
+    "id": 12,
+    "title": "Face Palm",
+    "category": "Reaction",
+    "tags": ["facepalm", "embarrassed", "awkward"],
+    "video": "https://media.giphy.com/media/Zw8b92fu3mWc1vt34u/giphy.mp4",
+    "thumbnail": "https://media.giphy.com/media/Zw8b92fu3mWc1vt34u/giphy.gif"
+  }
+]
