@@ -21,13 +21,13 @@ export default function AdminLogin() {
     if (success) {
       setTimeout(() => navigate('/admin'), 300)
     } else {
-      setError('Invalid credentials. Use r@meme.com / admin@meme.com')
+      setError('Invalid credentials')
     }
     setLoading(false)
   }
 
   return (
-    <div className="min-h-screen bg-dark flex items-center justify-center px-4 pt-20">
+    <div className="min-h-screen bg-dark flex items-center justify-center px-4">
       <motion.div
         className="w-full max-w-md rounded-3xl border border-primary/20 bg-[#090909] p-8 shadow-[0_40px_80px_rgba(0,0,0,0.4)]"
         initial={{ opacity: 0, y: 30 }}
@@ -49,7 +49,7 @@ export default function AdminLogin() {
               type="email"
               value={email}
               onChange={(e) => setEmail(e.target.value)}
-              placeholder="r@meme.com"
+              placeholder="xyz@xyz.com"
               className="w-full px-4 py-3 rounded-2xl bg-[#111] border border-primary/20 text-white placeholder-primary/40 focus:outline-none focus:border-primary transition-colors"
             />
           </div>
@@ -85,11 +85,11 @@ export default function AdminLogin() {
           </button>
         </form>
 
-        <div className="mt-8 p-4 rounded-2xl bg-[#0c0c0c] border border-primary/15">
+        {/* <div className="mt-8 p-4 rounded-2xl bg-[#0c0c0c] border border-primary/15">
           <p className="text-xs text-primary/60 uppercase tracking-[0.15em] mb-2">Demo Credentials</p>
           <p className="text-sm text-white font-mono">Email: r@meme.com</p>
           <p className="text-sm text-white font-mono">Pass: admin@meme.com</p>
-        </div>
+        </div> */}
       </motion.div>
     </div>
   )

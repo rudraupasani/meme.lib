@@ -7,9 +7,9 @@ import { supabase } from '../lib/supabase'
 import memes from '../data/memes.json'
 
 const stats = [
-  { label: 'Memes ready', value: '20+' },
+  { label: 'Memes ready', value: '50+' },
   { label: 'Instant download', value: '1 click' },
-  { label: 'Creator friendly', value: '24/7 access' },
+  { label: 'Creator friendly', value: 'Free access' },
 ]
 
 export default function HomePage() {
